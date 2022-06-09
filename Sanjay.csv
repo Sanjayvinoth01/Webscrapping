@@ -1,0 +1,21 @@
+,overall_score,university_rank,university_name,university_location
+0,<td>100</td>,<td>1</td>,<td>Massachusetts Institute of Technology (MIT)</td>,<td>United States</td>
+1,<td>99.5</td>,<td>2</td>,<td>University of Oxford</td>,<td>United Kingdom</td>
+2,<td>98.7</td>,<td>=3</td>,<td>Stanford University</td>,<td>United States</td>
+3,<td>98.7</td>,<td>=3</td>,<td>University of Cambridge</td>,<td>United Kingdom</td>
+4,<td>98</td>,<td>5</td>,<td>Harvard University</td>,<td>United States</td>
+5,<td>97.4</td>,<td>6</td>,<td>California Institute of Technology (Caltech)</td>,<td>United States</td>
+6,<td>97.3</td>,<td>7</td>,<td>Imperial College London</td>,<td>United Kingdom</td>
+7,<td>95.4</td>,<td>=8</td>,<td>ETH Zurich (Swiss Federal Institute of Technology)</td>,<td>Switzerland</td>
+8,<td>95.4</td>,<td>=8</td>,<td>UCL (University College London)</td>,<td>United Kingdom</td>
+9,<td>94.5</td>,<td>10</td>,<td>University of Chicago</td>,<td>United States</td>
+10,<td>93.9</td>,<td>11</td>,<td>National University of Singapore (NUS)</td>,<td>Singapore</td>
+11,<td>90.8</td>,<td>12</td>,"<td>Nanyang Technological University, Singapore (NTU)</td>",<td>Singapore</td>
+12,<td>90.7</td>,<td>13</td>,<td>University of Pennsylvania</td>,<td>United States</td>
+13,<td>90.2</td>,<td>=14</td>,<td>Ecole Polytechnique FÃ©dÃ©rale de Lausanne (EPFL)</td>,<td>Switzerland</td>
+14,<td>90.2</td>,<td>=14</td>,<td>Yale University</td>,<td>United States</td>
+15,<td>89.9</td>,<td>16</td>,<td>University of Edinburgh</td>,<td>United Kingdom</td>
+16,<td>89</td>,<td>17</td>,<td>Tsinghua University</td>,<td>Mainland China</td>
+17,<td>88.8</td>,<td>18</td>,<td>Peking University</td>,<td>Mainland China</td>
+18,<td>88.7</td>,<td>19</td>,<td>Columbia University</td>,<td>United States</td>
+19,<td>88.6</td>,<td>20</td>,<td>Princeton University</td>,<td>United States</td>
